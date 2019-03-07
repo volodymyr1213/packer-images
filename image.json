@@ -21,7 +21,7 @@
     {
         "type": "file",
         "source": "/etc/passwd",
-        "destination": "/tmp/user_list"
+        "destination": "/tmp/user_list",
     }    
     ]
 }
